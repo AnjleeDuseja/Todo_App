@@ -7,5 +7,5 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
 
   plugins: [react(),  tailwindcss()],
-  base: 'Todo_App/',
+  base: 'Todo_App',
 })
