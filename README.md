@@ -1,12 +1,54 @@
-# React + Vite
+# 📝 Planny App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Planny App** is a simple and responsive task (todo) management application built with **React**. It allows users to add, edit, and delete tasks — with global state management implemented using **React Context API** for a clean and scalable structure.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ Add, edit, mark as completed and delete tasks
+- 🌍 Global state management with React Context API
+- 📱 Responsive design using Tailwind CSS
+- 🧠 Clean and modular code for easy scalability
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ⚙️ Tech Stack
+
+- **React**
+- **React Context API**
+- **Tailwind CSS**
+
+---
+
+## 📸 Preview
+
+![Planny App Preview](https://github.com/AnjleeDuseja/Todo_App/blob/main/Planny.PNG)  
+
+---
+
+## 🔧 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/planny-app.git
+cd planny-app
+npm install
+npm start
+```
+---
+
+## 🙌 Contributing
+
+Contributions are welcome!  
+Feel free to **fork** the repository, **open issues**, or **submit pull requests** to help improve the project.
+
+---
+
+## 📬 Contact
+
+Built with 💻 by **Anjlee Duseja**  
+🔗 [Portfolio](https://anjlee.vercel.app)  
+📫 Email: [anjleeduseja13@gmail.com](mailto:anjleeduseja13@gmail.com)
+
