@@ -32,10 +32,10 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/planny-app.git
-cd planny-app
+git clone https://github.com/AnjleeDuseja/Todo_App.git
+cd Todo_App
 npm install
-npm start
+npm run dev
 ```
 ---
 
